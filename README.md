@@ -2,17 +2,6 @@
 
 This project is focused on predicting whether a passenger will be transported on a spaceship using machine learning techniques. The dataset used is from a Kaggle competition, and various data preprocessing, feature engineering, and modeling techniques are applied to achieve the best prediction accuracy.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Dataset](#dataset)
-- [Requirements](#requirements)
-- [Usage](#usage)
-- [Modeling](#modeling)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Project Overview
 
 The aim of this project is to predict the outcome (transportation) of passengers based on their personal and voyage-related features. The dataset includes various attributes such as passenger ID, age, cabin information, spending patterns, and more.
@@ -34,8 +23,3 @@ To run this project, you'll need the following dependencies:
 - Scikit-learn
 - Matplotlib
 - Seaborn
-
-You can install the required packages using:
-
-```bash
-pip install -r requirements.txt
